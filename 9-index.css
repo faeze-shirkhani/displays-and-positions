@@ -1,0 +1,19 @@
+body {
+  padding-top: 20vh;
+}
+.heart {
+  width: 302px;
+  height: 270px;
+  margin: auto;
+  position: relative;
+}
+.box {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  display: inline-block;
+}
+.special{
+    visibility: hidden;
+}
+

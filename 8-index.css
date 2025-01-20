@@ -1,0 +1,114 @@
+body{
+    padding: 20vh;
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(182, 179, 179);
+    border: 5px solid slategray;
+    margin: auto; 
+    position: relative;
+}
+.box1{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+}
+.box2{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 160px; 
+}
+.box3{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    right: 0;  
+}
+.box4{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    
+}
+.box5{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    
+}.box6{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 160px;
+
+    
+}.box7{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 160px;
+    left: 160px; 
+    
+}.box8{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 160px;
+    right: 0;
+}.box9{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    bottom: 80px;
+    left: 80px;
+
+    
+}.box10{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+    
+}.box11{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+}.box12{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    left: 160px;
+    
+}.box13{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
